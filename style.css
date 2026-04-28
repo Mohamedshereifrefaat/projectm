@@ -1,0 +1,67 @@
+
+.b1{
+    
+    
+    text-align: center; 
+    font-family: sans-serif;
+    min-height: 100vh;
+        background:       linear-gradient(to bottom ,rgb(3, 7, 30) , rgb(55, 6, 23) , rgb(106, 4, 15) )
+
+}
+.b2 {
+     
+    text-align: center; 
+    font-family: sans-serif;
+    min-height: 100vh;
+        background:       linear-gradient(to bottom ,rgb(43, 45, 66) , rgb(141, 153, 174) , rgb(237, 242, 244) )
+}
+.b3 {
+   color: blueviolet;
+    text-align: center; 
+    font-family: sans-serif;
+    min-height: 100vh;
+        background:       linear-gradient(to bottom ,rgb(239, 71, 111) , rgb(255, 209, 102) , rgb(6, 214, 160) )
+}
+header {
+    background-color: #2c3e50;
+    color: rgb(212, 62, 62);
+    padding: 20px;
+}
+
+nav {
+    margin: 20px;
+}
+
+nav a {
+    margin: 10px;
+    text-decoration: none; 
+    color: blue;
+    font-weight:bold ;
+}
+
+.content1 {
+    background-color: rgb(223, 51, 8);
+    width: 70%;
+    margin: auto; 
+    padding: 20px;
+    border: 7px solid rgb(43, 2, 2);
+}
+.content2 {
+    background-color: rgb(166, 223, 8);
+    width: 70%;
+    margin: auto; 
+    padding: 20px;
+    border: 7px solid rgb(43, 2, 2);
+}
+.content3 {
+    background-color: rgb(95, 3, 42);
+    width: 70%;
+    margin: auto; 
+    padding: 20px;
+    border: 7px solid rgb(43, 2, 2);
+}
+table {
+    width: 100%;
+    border-collapse: collapse;  
+    border: #2c3e50 dashed;
+} 
